@@ -51,3 +51,5 @@ Otra forma de ver los procesos de forma jerárquica
 # pstree
 Comanto para ver procesos 
 # htop
+Ver el manual de un comando 
+# man comando
