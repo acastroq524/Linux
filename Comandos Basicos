@@ -1,0 +1,53 @@
+Comando para busca si hay que actualizar los repositorios 
+# Sudo apt update
+Comando para ver el tiempo que lleva una maquina corriendo 
+# uptime
+Actualiza un paquete
+# sudo apt upgrade
+Comando para limpiar consola 
+# Clear
+Comando para ver la ip en Ubuntu 
+# ip addr
+Comando para instalar herramientas de red
+# sudo apt install net-tools
+Nos indica cual es el sistema operativo que estamos usando 
+# lsb_release -a 
+Version del Kernel (cerebro) instalado  (compatibilidad con mas o menos hardware)
+#uname – a
+Mostar los directorios donde este posicionado
+# ls 
+Mostar los directorios donde este posicionado con sus permisos
+# ls – l
+Mostar los directorios donde este posicionado  y muestra los ocultos 
+# ls – a 
+Mostar los directorios de la carpeta o ruta llamada
+# ls Carpeta
+Crear carpeta
+# mkdir Nombre carpeta
+Mover de una carpeta a otra 
+# cd Carpeta
+Muestra la ruta completa donde está la terminal
+# pw
+Se devuelve a la carpeta anterior
+# cd ..
+Este comando nos devuelve a la carpeta home 
+# cd
+Crear archivo
+# touch archivo1.txt
+Software editar texto  (nano o vim)
+# nano archivo1.tct
+# vi archivo1.txt (para salir esc :q salir o :wq para guardar y salir)
+Comando para leer y mostrar el contenido en terminal
+# cat archivo1.txt
+Para ver todos los procesos que se están corriendo en el equipo
+# ps -aux para salir usar la tecla q
+Para ver todos los procesos que se están corriendo en el equipo, pero buscando un proceso exactamente
+# ps -aux | grep firefox
+Para buscar un archivo
+# ls | grep archivo1.txt
+Para matar un proceso con el PID process ID Recordar que el proceso padre es el primero 
+# kill -9 18409 
+Otra forma de ver los procesos de forma jerárquica 
+# pstree
+Comanto para ver procesos 
+# htop
