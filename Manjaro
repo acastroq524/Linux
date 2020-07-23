@@ -1,0 +1,414 @@
+sudo pacman -Syuu
+    2  sudo pacman -S unrar zip unzip p7zip gzip bzip2
+    3  sudo pacman -S yay
+    4  AUR
+    5  yay
+    6  sudo pacman Octopi
+    7  sudo pacman Octopi
+    8  sudo pacman apche2
+    9  sudo pacman -S apche
+   10  sudo pacman -S apche2
+   11  sudo pacman -S Apache
+   12  sudo pacman -S apache
+   13  sudo nano /var/www/html/index.html
+   14  ls /var/www/html
+   15  cd /var
+   16  ls
+   17  sudo systemctl restart httpd
+   18  ls
+   19  ls
+   20  cd /www
+   21  cd /home
+   22  ls
+   23  sudo nano /etc/httpd/conf/httpd.conf
+   24  sudo nano /etc/httpd/conf/httpd.conf
+   25  sudo systemctl enable httpd 
+   26  sudo systemctl restart  httpd 
+   27  sudo systemctl status  httpd 
+   28  cd /siv
+   29  cd /home
+   30  ls
+   31  cd acastroq524/
+   32  ls
+   33  cd ..
+   34  cd ..
+   35  cd ..
+   36  ls
+   37  cd srv
+   38  ls
+   39  cd http
+   40  ls
+   41  ls
+   42  cd /var
+   43  ls
+   44  cd ..
+   45  ls
+   46  cd ..
+   47  ls
+   48  cd /srv/
+   49  ls
+   50  cd http
+   51  ls
+   52  ls -a
+   53  sudo nano index.html
+   54  ls
+   55  sudo nano  /srv/http/index.html 
+   56  sudo nano  /srv/http/index.html 
+   57  chrome
+   58  google-chrome-stable 
+   59  ç
+   60  sudo pacman -S neoetch
+   61  sudo pacman -S neofetch
+   62  neofetch
+   63  uname -a
+   64  sS
+   65  sudo useradd -m user1 -G wheel -p user1
+   66  sudo useradd -m user2 -G wheel -p user2
+   67  sudo useradd -m user3 -G wheel -p user3
+   68  google-chrome-stable 
+   69  ls
+   70  cd ..
+   71  ls
+   72  cd user1
+   73  sudo cd user1
+   74  ls
+   75  ls /user1
+   76  sudo cd user1
+   77  sudo su
+   78  ls
+   79  cd acastroq524/
+   80  ls
+   81  mkdir diruno
+   82  ls
+   83  mkdir dirdos
+   84  mkdir dir003
+   85  mkdir dir004
+   86  ls
+   87  mkdir /dir003/dirtres
+   88  cd /dri003
+   89  cd /dir003
+   90  ls
+   91  cd dir003
+   92  mk dirtres
+   93  mkdir dirtres
+   94  ls
+   95  cd ,,
+   96  cd.
+   97  cd..
+   98  cd..
+   99  cd .
+  100  cd ..
+  101  ls
+  102  cd dir004
+  103  mkdir dircuatro
+  104  ls
+  105  cd ..
+  106  ls
+  107  cd /diruno
+  108  cd /diruno
+  109  cd diruno
+  110  ls
+  111  sudo nano archivo0
+  112  sudo nano archivo0
+  113  ls
+  114  sudo nano archivo0
+  115  ls
+  116  cd ..
+  117  cd dirdos
+  118  nano archivo1
+  119  ls
+  120  echo archivo1 
+  121  cat archivo1 
+  122  sScd ..
+  123  cd ..
+  124  cd diruno
+  125  cat archivo0 
+  126  cd ..
+  127  diruno
+  128  cd diruno
+  129  ls
+  130  nano archivo0 
+  131  ls
+  132  cd..
+  133  cd ..
+  134  cd dirdos
+  135  ls
+  136  nano archivo1 
+  137  archivo1
+  138  bash archivo1
+  139  nano archivo1 
+  140  bash archivo1
+  141  cat archivo1 
+  142  cd ..
+  143  cd dir003
+  144  cd dirtres
+  145  nano archivo2
+  146  Bash archivo2 
+  147  bash archivo2 
+  148  nano archivo2
+  149  s
+  150  ls
+  151  cd ..
+  152  ls
+  153  cd ..
+  154  ls
+  155  cd diruno
+  156  ls
+  157  cat archivo0 
+  158  cd ..
+  159  cd dirdos
+  160  ls
+  161  rmdir archivo1 
+  162  r archivo1 
+  163  del archivo1 
+  164  rmdir -r archivo1 
+  165  rm archivo1 
+  166  ls
+  167  ls
+  168  cd ..
+  169  cd dir003
+  170  ls
+  171  mkdir dircuatro
+  172  ls
+  173  nano archivo1
+  174  bach archivo1 
+  175  bash archivo1 
+  176  ls
+  177  cat archivo1 
+  178  cd dircuatro/
+  179  ls
+  180  nano archivo2
+  181  cat archivo2 
+  182  ls
+  183  bash archivo2 
+  184  sudo bash archivo2 
+  185  cat archivo2 
+  186  cat archivo2 
+  187  nano archivo2 
+  188  ls
+  189  nano archivo2
+  190  rm archivo2 
+  191  nano ar
+  192  nano archivo2
+  193  cat archivo2 
+  194  bash archivo2 
+  195  sudo bash archivo2 
+  196  ls
+  197  nano archivo3
+  198  ls
+  199  cat archivo3
+  200  sudo bash archivo3
+  201  nano archivo3
+  202  cd $HOME
+  203  LS
+  204  ls
+  205  cd ..
+  206  ls
+  207  cd $HOME
+  208  ls
+  209  cd dir003
+  210  ls
+  211  cd dircuatro/
+  212  ls
+  213  cat archivo3
+  214  bash archivo3
+  215  sudo bash archivo3
+  216  cat archivo3
+  217  ls -l
+  218  ls
+  219  nano archivo4
+  220  ls
+  221  cat archivo4
+  222  sudo bash archivo4
+  223  nano archivo4
+  224  bash archivo4
+  225  cat archivo4
+  226  ls
+  227  man cp
+  228  cat archivo2
+  229  cat archivo2
+  230  ls
+  231  dir pro
+  232  dir profile 
+  233  ls profile 
+  234  cd pro
+  235  cd profile 
+  236  cd profile 
+  237  cat profile 
+  238  exit
+  239  cp -rv /etc/a*  $HOME/dirdos/
+  240  sudo cp -rv /etc/a*  $HOME/dirdos/
+  241  cd dirdos/
+  242  ls
+  243  sudo cp -rv /etc/f*  $HOME/dirdos/
+  244  sudo cp -rv /etc/f*  $HOME/dirdos/
+  245  sudo cp -rv /etc/g*  $HOME/dirdos/
+  246  sudo cp -rv /etc/h*  $HOME/dirdos/
+  247  sudo cp -rv /etc/i*  $HOME/dirdos/
+  248  ls
+  249  cd..
+  250  cd ..
+  251  ls
+  252  mv diruno/archivo0 $HOME/dir004
+  253  cd dir004
+  254  ls
+  255  cd ..
+  256  mkdir prueba
+  257  mv diruno/archivo0 $HOME/prueba/
+  258  ls
+  259  ñs
+  260  mv dir003/dircuatro/ $HOME/diruno
+  261  ls dir003
+  262  ls diruno
+  263  rmdir dir003
+  264  rmdir -rv dir003
+  265  rmdir -r dir003
+  266  rmdir -rv dir003
+  267  rmdir -v dir003
+  268  man rmdir
+  269  rmdir -V dir003
+  270  rmdir --V dir003
+  271  man rmdir
+  272  rmdir -P dir003
+  273  rmdir -p dir003
+  274  sudo rmdir -p dir003/
+  275  rm -r dir003
+  276  ls
+  277  ls dirdos
+  278  mv dirdos/f* dir004/
+  279  sudo mv dirdos/f* dir004/
+  280  sudo mv dirdos/h* dir004/
+  281  ls dirdos/
+  282  ls dirdos/
+  283  cd dirdos
+  284  ls
+  285  ls dir004
+  286  ls dir004
+  287  cd ..
+  288  ls dir004
+  289  cd diruno
+  290  nano archivo5
+  291  ls
+  292  ip addr
+  293  cp ip addr archivo5 
+  294  cat /etc/netconfig 
+  295  cat /etc/netctl
+  296  cat /etc/netconfig 
+  297  cat /etc/netconfig
+  298  cd /etc/netctl
+  299  ip addr
+  300  ip addr >> archivo5
+  301  cat archivo5 
+  302  ps -aux >> archivo6
+  303  cat archivo6
+  304  cd ..
+  305  ls -s dirdos/
+  306  ls -l dirdos/
+  307  ls -l 
+  308  chown user1 dirdos
+  309  sudo chown user1 dirdos
+  310  ls -l 
+  311  sudo chown user1  dirdos
+  312  ls -l 
+  313  sudo chown user1 nogroup dirdos
+  314  chmod 600 dirdos
+  315  sudo chmod 600 dirdos
+  316  ls -l
+  317  mkdir dir003
+  318  ls -l
+  319  sudo chmod 600 dir003
+  320  sudo chown user2  dir003
+  321  ls -l
+  322  sudo chmod 766 dir004
+  323  sudo chown user3  dir004
+  324  ls -l
+  325  ps -aux
+  326  ps -aux | grep cupsd
+  327  kill -p 886
+  328  kill -p 8873
+  329  kill -p 8872
+  330  kill -p 28832
+  331  ps -aux | grep cupsd
+  332  kill -886 pid
+  333  kill -965264 pid
+  334  ps -aux | grep cupsd
+  335  killall cupsd
+  336  sudo killall cupsd
+  337  ps -aux | grep cupsd
+  338  sudo killall cupsd
+  339  ls
+  340  history
+  341  history >> historial.txt
+  342  cat historial.txt 
+  343  grep -r "Log" $HOME
+  344  grep -r "Log" $HOME
+  345  crontab
+  346  crontab -e
+  347  touch actualizacion.sh
+  348  nado actualizacion.sh 
+  349  nano actualizacion.sh 
+  350  bash actualizacion.sh 
+  351  ls -l
+  352  chmod 700
+  353  chmod 700 actualizacion.sh 
+  354  ls -l
+  355  cat /var/spool/cron/
+  356  ls /var/spool/cron/
+  357  crontab -e
+  358  cat /etc/cron.minutely
+  359  sudo nano /etc/cron.weekly
+  360  ls
+  361  cd /etc/cron.d
+  362  ls
+  363  crontab -e
+  364  cd ..
+  365  cd ..
+  366  cd ..
+  367  ls
+  368  echo "HOLA MUNDO" >> 1.txt
+  369  cd home/
+  370  cd acastroq524/
+  371  echo "HOLA MUNDO" >> 1.txt
+  372  ls
+  373  echo "HOLA MUNDO" >> 1.txt
+  374  ls
+  375  cat 1.txt 
+  376  cat 1+1.txt 
+  377  echo "HOLA MUNDO" >> 1+1.txt
+  378  ls
+  379  echo "HOLA MUNDO" >> 1+1.txt
+  380  ls
+  381  rm 1+1.txt 
+  382  ls
+  383  nano creararchivosemanal.sh
+  384  bash creararchivosemanal.sh 
+  385  ls
+  386  nano creararchivosemanal.sh
+  387  bash creararchivosemanal.sh 
+  388  ls
+  389  bash creararchivosemanal.sh 
+  390  nano creararchivosemanal.sh
+  391  bash creararchivosemanal.sh 
+  392  ls
+  393  rm `HOLA MUNDO`
+  394  rm 'HOLA MUNDO'
+  395  ls
+  396  bash creararchivosemanal.sh 
+  397  cat creararchivosemanal.sh 
+  398  cat creararchivosemanal.sh 
+  399  ls -l
+  400  chmod 700 creararchivosemanal.sh 
+  401  ls -l
+  402  cat creararchivosemanal.sh 
+  403  crontab -e
+  404  crontab -e
+  405  crontab 
+  406  crontab -e
+  407  cat crontab -e
+  408  crontab -e
+  409  crontab -e
+  410  echo history >> historial2.txt 
+  411  cat historial2.txt 
+  412  history 
+  413  cat  history >> historial2.txt 
+  414  history >> historial2.txt 
