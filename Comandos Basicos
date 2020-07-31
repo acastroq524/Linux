@@ -53,3 +53,5 @@ Comanto para ver procesos
 # htop
 Ver el manual de un comando 
 # man comando
+Entorno Grafico
+# env | grep DESKTOP_SESSION
