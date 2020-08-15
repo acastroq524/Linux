@@ -56,3 +56,40 @@ Ver el manual de un comando
 Entorno Grafico
 # env | grep DESKTOP_SESSION
 # systemctl status display-manager.service
+Buscar por nombre de archivo
+# locate "Nombre de archivo"
+Descomprimir tar.gz
+# tar -xzvf nombre.tar.gz
+Instalar apache 
+# apt install apache2
+Verificar si esta en ejecución 
+# systemctl status apache2
+Opcion para ver la IP local 
+# hostname -I
+Opcion para ver la IP Publica
+# curl -4 icanhazip.com
+# Detener apache
+sudo systemctl stop apache2
+# Iniciar Apache
+sudo systemctl start apache2
+# Reiniciar Apache
+sudo systemctl restart apache2
+# Recargar configuracion
+sudo systemctl reload apache2
+# Deshabilitar apache
+sudo systemctl disable apache2
+# Habilitar apache durante el arranque
+sudo systemctl enable apache2
+# Crear directorios sin necesidad de crear uno por uno en el ejemplo el directorio ejemplo.com no existe
+sudo mkdir -p /var/www/ejemplo.com/html
+# Cambios de permisos en directorios web en apache recomendados
+sudo chown -R $USER:$USER /var/www/ejemplo.com/html
+sudo chmod -R 755 /var/www/ejemplo.com
+# Habilitar archivo de configuracion de Apache
+sudo a2ensite ejemplo.com.conf
+# Deshabilitar un archivo de configuracion de Apache
+sudo a2dissite 000-default.conf
+# Revisar configuracion de Apache
+sudo apache2ctl configtest
+
+
